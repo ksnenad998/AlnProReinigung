@@ -36,7 +36,7 @@
                 <div class="col-md-3 col-sm-3">
                     <div class="logo">
                         <!-- Brand -->
-                        <a class="navbar-brand page-scroll sticky-logo" href="index.php">
+                        <a class="navbar-brand page-scroll sticky-logo" href="index.html">
                         <img src="img/logo/logo 1 responsive.png" alt="Firmenlogo ALNPRO-REINIGUNG" style="max-height: 60px;">
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                         <div class="collapse navbar-collapse" id="navbar-example">
                             <div class="main-menu">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li><a class="pagess" href="index.php">Heim</a>
+                                    <li><a class="pagess" href="index.html">Heim</a>
                                     </li>
                                     <li><a class="pagess" href="about.php">Über uns</a>
                                     </li>
@@ -74,12 +74,12 @@
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                        <a href="index.php">
+                        <a href="index.html">
                         <img src="img/logo/logo 1.png"  alt="Firmenlogo ALNPRO-REINIGUNG"  style="max-height: 50px;" >
                         </div>
                         <nav id="dropdown">
                             <ul>
-                                <li><a class="pagess" href="index.php">Heim</a>
+                                <li><a class="pagess" href="index.html">Heim</a>
                                 </li>
                                 <li><a class="pagess" href="about.php">Über uns</a>
                                 </li>
