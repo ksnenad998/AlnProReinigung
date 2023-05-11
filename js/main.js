@@ -228,7 +228,7 @@
 
         $.ajax({
             type: "POST",
-            url: "assets/contact.php",
+            url: "assets/contact.html",
             data: "name=" + name + "&email=" + email + "&msg_subject=" + msg_subject + "&message=" + message + "&phone=" + phone + "&selecttext=" + selecttext + "&address=" + address + "&sel=" + sel + "&sele=" + sele + "&datetimepicker1=" + datetimepicker1 + "&datetimepicker3=" + datetimepicker3,
             success: function(text) {
                 if (text === "success") {
